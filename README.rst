@@ -65,9 +65,11 @@ We have a vibrant community of developers helping each other in our `Telegram gr
 
 *Stay tuned for library updates and new releases on our* `Telegram Channel <https://telegram.me/pythontelegrambotchannel>`_.
 
-An Overview of available Source Codes of Telegram Bots you found there. 
+An Overview of available Source Codes of Telegram Bots you can found there:  
 `TelegramBotsList <https://danyspin97.github.io/TelegramBotsList>`_.
 
+Eine Übersicht über verfügbare Quellcodes von Telegramm-Bots können Sie dort finden: 
+'Telegrambotsliste <https://danyspin97.github.io/TelegramBotsList>`_.
 
 Introduction
 ------------
