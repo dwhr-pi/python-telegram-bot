@@ -69,7 +69,7 @@ An Overview of available Source Codes of Telegram Bots you can found there:
 `TelegramBotsList <https://danyspin97.github.io/TelegramBotsList>`_.
 
 Eine Übersicht über verfügbare Quellcodes von Telegramm-Bots können Sie dort finden: 
-'Telegrambotsliste <https://danyspin97.github.io/TelegramBotsList>`_.
+`TelegramBotListe <https://danyspin97.github.io/TelegramBotsList>`_.
 
 Introduction
 ------------
